@@ -1,0 +1,19 @@
+Language,Package managers
+.NET,"NuGet (for .NET Framework), dotnet CLI (for .NET Core)"
+C/C++,"Conan, vcpkg, CPAN (for Perl), BiiCode (for C/C++)"
+Dart,pub
+Elixir,Hex
+Elm,elm-package
+Erlang,rebar3
+Go,"Go Modules, dep (deprecated)"
+Haskell,"Cabal, Stack"
+Java,"Maven, Gradle"
+JavaScript,"npm (Node Package Manager)"
+Julia,Pkg
+Lua,LuaRocks
+PHP,Composer
+Python,"pip (Python Package Installer)"
+R,"CRAN (Comprehensive R Archive Network)"
+Ruby,"RubyGems, Bundler"
+Rust,Cargo
+Swift,Swift Package Manager
